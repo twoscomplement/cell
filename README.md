@@ -1,6 +1,8 @@
 # Cell
 Various code fragments written to run on the Cell Broadband Engine
 
+> "the largest repository of non-library Cell code on the internet?"
+
 ## buddhabrot
 A buddhabrot/nebulabrot renderer. Some articles about this are here: http://brnz.org/hbr/?tag=buddhabrot
 
